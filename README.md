@@ -1,0 +1,2 @@
+# SmartCar_VirtualMachine
+该仓库用于21届智能车走马观碑组ubuntu虚拟机
